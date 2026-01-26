@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a final-year CSIT student at Tribhuvan University passionate about creating beautiful, responsive web applications. I enjoy turning complex problems into simple, intuitive designs.
+Turning design concepts into functional, responsive web applications. Final-year CSIT student specializing in React development with an eye for detail and user-centric design principles.
 
 - 🌱 Currently learning: **Advanced React patterns**, **TypeScript**, **Next.js**
 - 💬 Ask me about: **React**, **Frontend development**, **CSS frameworks**
