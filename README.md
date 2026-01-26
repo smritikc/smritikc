@@ -22,11 +22,34 @@ I'm a final-year CSIT student at Tribhuvan University passionate about creating 
 
 ## 🛠️ Tech Stack
 
-| Frontend | Tools | Learning |
-|----------|-------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/> React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/> TypeScript |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/> VS Code | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/> Next.js |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/> Tailwind | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/> Figma | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/> Node.js |
+### **Frontend Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="40" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" height="40" />
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify" height="40" />
+</p>
+
+### **Learning & Exploring**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="40" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" height="40" />
+</p>
 
 ---
 
