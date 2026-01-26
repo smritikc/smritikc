@@ -48,14 +48,18 @@ Interactive React dice game demonstrating state management and event handling.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smritikc&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Smriti's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smritikc&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smritikc&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
-</p>
+<!-- Main Stats (using default theme) -->
+<img src="https://github-readme-stats.vercel.app/api?username=smritikc&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smritikc&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smritikc&theme=default&hide_border=true" height="165" alt="GitHub Streak" />
+
+</div>
 
 ---
 
