@@ -119,7 +119,7 @@ Interactive React dice game demonstrating state management and event handling.
 
 **Bachelor in Computer Science & Information Technology (CSIT)**  
 *Padmakanya Multiple Campus, Tribhuvan University*  
-*2022 - 2026*
+*2023 - 2027*
 
 **IELTS Academic** - Overall Band 7.0  
 *British Council, 2021*
