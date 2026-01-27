@@ -49,7 +49,7 @@ Turning design concepts into functional, responsive web applications. Final-year
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="40" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" height="40" />
-  <img src="https://skillicons.dev/icons?i=gsap" alt="GSAP" title="GSAP" height="40" />
+  <img src="https://cdn.simpleicons.org/gsap/88CE02" alt="GSAP" title="GSAP" height="40" />
 </p>
 
 ---
