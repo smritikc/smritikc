@@ -56,7 +56,7 @@ Turning design concepts into functional, responsive web applications. Final-year
 
 ## 📁 Featured Projects
 
-### **🎨 Personal Portfolio** | [Live Demo](https://smriti-portfolio-weld.vercel.app/) | [Code](https://github.com/smritikc/smriti-portfolio)
+### **🎨 Personal Portfolio** | [Live Demo](https://sk-cportfolio.vercel.app/) | [Code](https://github.com/smritikc/SKCportfolio)
 Modern portfolio built with React and Tailwind CSS featuring responsive design and smooth animations.
 
 ### **🤖 CodeFlow AI Landing Page Clone** | [Live Demo](https://code-flow-site-clone.vercel.app/) | [Code](https://github.com/smritikc/Code-flow-site-clone)
