@@ -70,21 +70,6 @@ Interactive React dice game demonstrating state management and event handling.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Main Stats (using default theme) -->
-<img src="https://github-readme-stats.vercel.app/api?username=smritikc&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Stats" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smritikc&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
-
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
